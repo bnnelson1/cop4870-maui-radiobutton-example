@@ -1,6 +1,6 @@
 # For COP4870 Class: Example for styling Radio Button in Maui
 
-This is intended to be seen by at least one student of the FSU COP4870 course as of the Spring 2023 semester and is meant to serve as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so. **Please keep in mind that I am a student of this course and have no involvement with its instruction. This is not official course content.**
+This is intended for at least one student of the FSU COP4870 course as of the Spring 2023 semester and is meant to serve as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so. **Please keep in mind that I am a student of this course and have no involvement with its instruction. This is not official course content.**
 
 The relevant files are:
 - MAUI.RadioStyleButtonExample/App.xaml
@@ -62,6 +62,6 @@ What this is doing is setting the color based on which theme is set (Light or Da
 
 ---
 
-### References / Acknowledgements
+## References / Acknowledgements
 The code used for the content templates in this example is heavily based on the examples provided by Microsoft.
 https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/radiobutton?view=net-maui-7.0#redefine-radiobutton-appearance
