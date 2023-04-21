@@ -1,6 +1,6 @@
 # For COP4870 Class: Example for styling Radio Button in Maui
 
-This is intended for the FSU COP4870 course and is meant to serve as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so.
+This is intended to be seen by at least one student of the FSU COP4870 course as of the Spring 2023 semester and is meant to serve as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so. **Please keep in mind that I am a student of this course and have no involvement with its instruction. This is not official course content.**
 
 The relevant files are:
 - MAUI.RadioStyleButtonExample/App.xaml
