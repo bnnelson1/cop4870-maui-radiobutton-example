@@ -1,6 +1,6 @@
 # For COP4870 Class: Example for styling Radio Button in Maui
 
-This is intended to help another student of the C# course and to serve as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so.
+This is intended to help another student of the C# course by serving as an example of how to style the RadioButton control in .NET MAUI and as a starting point for doing so.
 
 The relevant files are:
 - MAUI.RadioStyleButtonExample/App.xaml
