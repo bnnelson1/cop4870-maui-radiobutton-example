@@ -40,7 +40,7 @@ Defines the resources at the Application level.
 ...
 </ContentPage>
 ```
-Defines the style for RadioButton on this ContentPage and consumes the RadioButtonFillTemplate resource. Include this general part in the xaml for each ContentPage you wish to use it with.
+Defines the style for RadioButton on this ContentPage and consumes the RadioButtonFillTemplate resource. **Include this general part in the xaml for each ContentPage you wish to use it with.**
 
 ### In Resources/ControlTemplates/
 There are two different ControlTemplates here in this example: one with a 'fill' style (i.e. a space between a border and a fill for the button) and one with a 'hollow' style (i.e. changes the size of the border or stroke of the button instead of filling).
